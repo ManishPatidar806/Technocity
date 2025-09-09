@@ -1,5 +1,5 @@
-[No content]
-# Company Website Project
+
+# Technocity 
 
 This repository contains a full-stack web application for a company website, featuring a modern Frontend built with Vite, React, and Tailwind CSS, and a robust Backend powered by Spring Boot (Java). The project supports job applications, static content pages, and file uploads.
 
