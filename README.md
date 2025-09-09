@@ -171,6 +171,4 @@ The frontend will start on [http://localhost:5173](http://localhost:5173) (defau
 
 ---
 
-## License
 
-This project is for educational and demonstration purposes. See individual files for license details if present.
